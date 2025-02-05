@@ -1,0 +1,1 @@
+atch((err) => console.log("Catch", err));
