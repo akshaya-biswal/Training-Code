@@ -1,10 +1,14 @@
-const name = "Hello World";
+let name = "Hello World";
 
 const obj1 = {
   name,
   age: 10,
   isLoggedIn: "Yes",
 };
+
+name + "1";
+
+console.log(name);
 
 // fixed size
 
